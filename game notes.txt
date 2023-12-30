@@ -1,0 +1,11 @@
+Waiting for Rayyan to finish the sprites so I'm using default sprites for now, take note: 
+
+Bat = Scavenge for food
+Apple = Walk in park
+Baseball = Beg
+
+
+
+Each action will broadcast a message, which will show a textbox 
+
+E.g clicking Beg will show a textbox saying "You got money!"/"You failed to get money."
